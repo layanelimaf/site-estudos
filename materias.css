@@ -68,7 +68,10 @@ body{
     width: 100%;
     margin: auto;
     top: 50%;
+    max-height: 80vh;
+    overflow-y: auto;
 }
+
 .titulo-materia{
     font-size: 32px;
     font-weight: 700;
