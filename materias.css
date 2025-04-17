@@ -134,7 +134,7 @@ body{
 @media screen and (max-widht:600px) {
     .container-materia{
         width: 90%;
-        padding: 30px 20px;
+        padding: 10px;
         border-radius: 15px;
     }
     .titulo-materia{
