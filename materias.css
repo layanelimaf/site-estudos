@@ -53,16 +53,16 @@ body{
 }
 
 .subtitulo{
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: #666;
     margin-bottom: 20px;
 }
 
 .titulo-assuntos{
+    text-align: left;
     font-size: 1.1rem;
     color: var(--cor03);
-    font-weight: 600;
-    margin-bottom: 20px;
+    margin: 20px 0 10px 0;
 }
 
 .lista-assuntos{
@@ -107,15 +107,15 @@ body{
         margin-top: 30px;
     }
     .titulo-materia{
-        font-size: 1.3rem;
+        font-size: 1.4rem;
         text-align: center;
         justify-content: center;
     }
-    .subtitulo, .titulo-assuntos{
+    .subtitulo{
         text-align: center;
     }
     .titulo-assuntos{
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
     .lista-assuntos a{
         font-size: 0.95rem;
