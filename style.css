@@ -75,8 +75,10 @@ body{
 
  .cards{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 5px;
+    grid-template-columns: 1fr;
+    gap:6px;
+    max-width: 300px;
+    margin: 20px auto;
  }
 
  .card{
